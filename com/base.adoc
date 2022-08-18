@@ -5,5 +5,9 @@
 - 华东师范大学, 教育技术学专业, 本科, 理学学士
 - 上海炘璞电子科技有限公司
 - 9年 C++/C#/Lua 手机游戏开发
-- 成功项目经验 `武侠转`/`幻想英雄`/`魔法少女小圆`/`A3!满开剧团`
 - GitHub: https://github.com/cn00[cn00] 码云: https://gitee.com/cnoo[cn00]
+- 成功项目经验: 
+    https://baike.baidu.com/item/武侠传/6561646[武侠转] / 
+    https://baike.baidu.com/item/幻想英雄[幻想英雄] / 
+    https://baike.baidu.com/item/魔法少女小圆/20175601[魔法少女小圆] / 
+    https://baike.baidu.com/item/A3%21/23281415[A3!满开剧团]

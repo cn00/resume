@@ -13,11 +13,10 @@
 
 == 专业能力
 - 编程语言 `C++/C#/Lua/go/Java/kotlin/Shell/SQL`
-- 引擎框架 `unity3d/cocos2d/SpringBoot`
-- 擅长环境 `macOS`/`Linux`/`Docker`
-- 擅长开发和使用各种工具, 对 `Unix` 系统工具较熟悉, 
-擅长使用 `shell` 管道编写工具脚本完成一些如数据处理, 日志分析, 问题定位等工作
-- 能够快速学习新技术新语言, 能够触类旁通, 有较强等代码阅读分析能力, 能快速定位问题, 实现需求
-- 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发, 如: lua, sqlite3, flatbuffers
-- 热爱开源社区, 积极为开源项目贡献代码, 如腾讯开源热更新方案 (https://github.com/Tencent/xlua.git[XLua]) / (https://github.com/Tencent/InjectFix.git[InjectFix])
+- 编程环境 `iOS`/`Android`/`Linux`/`Docker`, 有丰富的跨平台接口设计经验
+- 引擎框架 熟练使用 `unity3d/cocos2d` 引擎, 对 `Ureal`/`ORGE` 等引擎也有一定研究和了解
+- 擅长开发和各种工具批处理脚本, 熟练使用 `shell/sed/awk` 脚本
+- 能够快速学习阅读分析代码能力, 能够快速理解大型工程等架构
+- 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发
+- 积极参与开源项目, 如腾讯开源热更新方案 https://github.com/Tencent/xlua.git[XLua] / https://github.com/Tencent/InjectFix.git[InjectFix]
 
