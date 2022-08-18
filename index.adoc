@@ -1,6 +1,6 @@
 :toc: right
 :toc-title: 目录
-// :level: 3
+:toclevels: 3
 
 = 冷海军
 
