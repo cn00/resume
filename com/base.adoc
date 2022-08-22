@@ -8,9 +8,9 @@
 // http://www.kulemi.com/15223[魔法少女小圆(酷乐米)]
 // http://www.kulemi.com/2846[武侠转]
 - 成功项目: 
-    https://baike.baidu.com/item/武侠传/6561646[image:img/wxz.jpg[hxyx]武侠转] /
-    https://baike.baidu.com/item/幻想英雄[image:img/hxyx.jpg[hxyx]幻想英雄] /
+    https://baike.baidu.com/item/武侠传/6561646[image:img/wxz.jpg[icon]武侠转] /
+    https://baike.baidu.com/item/幻想英雄[image:img/hxyx.jpg[icon]幻想英雄] /
     https://baike.baidu.com/item/魔法少女小圆/20175601[image:img/mfsn.jpg[icon]魔法少女小圆] /
-    https://baike.baidu.com/item/A3%21/23281415[image:img/a3.png[a3]A3!满开剧团] /
-    https://game.bilibili.com/100p[image:img/m100.png[m100]梦王国与沉睡的100王子]
+    https://baike.baidu.com/item/A3%21/23281415[image:img/a3.png[icon]A3!满开剧团] /
+    https://game.bilibili.com/100p[image:img/m100.png[icon]梦王国与沉睡的100王子]
 - 自我评价: 好奇心比较强, 喜欢研究折腾, 能够比较快地熟悉未知领域, 最喜欢的编程语言是 Lua
