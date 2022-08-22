@@ -3,11 +3,11 @@
 - 冷海军, 男, 1989
 - 18158341378, cool_navy@qq.com
 - 华东师范大学, 教育技术学专业, 本科, 理学学士
-- 9年手机游戏开发, `Android`/`iOS`/`Linux`/`cocos2d`/`Unity3D`
+- 9年移动游戏开发, `Android`/`iOS`/`Linux`/`cocos2d`/`Unity3D`
 - 成功项目: 
     https://baike.baidu.com/item/武侠传/6561646[武侠转] /
     https://baike.baidu.com/item/幻想英雄[幻想英雄] /
     https://baike.baidu.com/item/魔法少女小圆/20175601[魔法少女小圆] /
     https://baike.baidu.com/item/A3%21/23281415[A3!满开剧团]
 - https://github.com/cn00[GitHub] / https://gitee.com/cnoo[码云]
-- 自我评价: 好奇心比较强, 喜欢研究折腾, 最喜欢的编程语言是 Lua
+- 自我评价: 好奇心比较强, 喜欢研究折腾, 能够比较快地熟悉未知领域, 最喜欢的编程语言是 Lua
