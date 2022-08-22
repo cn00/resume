@@ -18,6 +18,6 @@
   熟悉 Unity 机器学习框架 `ML-Agents`(基于 TensorFlow) 用于 NPC 对象的 AI 控制
 - 熟练阅读英文技术网站博客, 如: stack overflow
 - 擅长开发工具脚本, 熟练使用 `shell`/`sed`/`awk` 脚本, 熟练各种数据格式的转换
-- 能够快速学习阅读分析代码能力, 能够快速理解大型工程架构, 快速参与的实际开发工作
+- 具有快速学习阅读分析代码能力, 能够快速理解大型工程架构, 能够快速参与到实际的开发工作
 - 具有丰富的开源项目组件使用经验, 根据项目需求进行二次开发
 - 积极参与开源项目, 如腾讯开源热更新方案 https://github.com/Tencent/xlua.git[XLua] / https://github.com/Tencent/InjectFix.git[InjectFix]

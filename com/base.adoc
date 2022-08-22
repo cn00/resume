@@ -13,4 +13,4 @@
     https://baike.baidu.com/item/魔法少女小圆/20175601[image:img/mfsn.jpg[icon]魔法少女小圆] /
     https://baike.baidu.com/item/A3%21/23281415[image:img/a3.png[icon]A3!满开剧团] /
     https://game.bilibili.com/100p[image:img/m100.png[icon]梦王国与沉睡的100王子]
-- 自我评价: 好奇心比较强, 喜欢研究折腾, 能够比较快地熟悉未知领域, 最喜欢的编程语言是 Lua
+- 自我评价: 好奇心比较强, 喜欢研究折腾, 能够比较快地熟悉未知领域
