@@ -1,12 +1,12 @@
 
 == 工作经历
 
-=== {counter:directions}. 上海炘璞电子有限公司, 2021/12 -- 2022/4
-- 技术标签: `Spring Boot`/`java`/`go`/`vue`/`docker`/`RFID+UHF`/`树莓派`
+=== {counter:directions}. 上海炘璞电子有限公司, 2021/12--2022/4
+- 技术标签: `Spring Boot`/`java`/`go`/`vue`/`docker`/`Postgresql`/`TSDB`(InfluxDB)/`UHF+RFID`/`树莓派`
 - 项目列表：
-  * 巴斯夫上海化工园区危废仓库管理系统
+  * 巴斯夫上海危废仓库管理系统
   * 天津某园区资产自动盘点系统
-  * 天津某液化气瓶运输防盗监控
+  * 天津某液化气瓶运输定位防盗监控
   * 北京东方博泰档案管理系统电子门禁系统 (斯科门禁)
 - 主要工作内容：
   * 危废管理系统前后端全栈及手持机应用开发
@@ -16,17 +16,17 @@
   * 指导初级程序员完成开发任务
 
 
-=== {counter:directions}. 上海奥刃网络科技有限公司, 2021/9 -- 2021/12
+=== {counter:directions}. 上海奥刃网络科技有限公司, 2021/9--2021/12
 - 技术标签: `Unity3D`/`TypeScript`/`WFC`/`多线程`
 - 项目简介：`奥刃小镇(Unity)` 养成类游戏, 玩法类似 https://www.cookierun-kingdom.com/zh-Hant[姜饼人王国], 使用 https://github.com/mxgmn/WaveFunctionCollapse[WFC 波函数塌缩] 实现了程序化建筑生成, 类似 *Townscaper* https://www.bilibili.com/video/BV1Xy4y127CB[(video)]
 - 工作内容：
- * 基于 `typescript` 的业务脚本代码自动生成工具设计开发
+ * 基于 `TypeScript` 的业务脚本代码自动生成工具设计开发
  * 养成和程序化生成建筑系统设计开发
 
-=== {counter:directions}. 上海灼焰/上海幻电信息科技有限公司(bilibili), 2015/10 -- 2021/9
-- 技术标签: `cocos2d`/`Unity3D`/`C#`/`lua`/`java`/`UML`/`protobuffer`/`boost`/`docker`
+=== {counter:directions}. 上海灼焰/幻电信息科技有限公司(bilibili), 2015/10--2021/9
+- 技术标签: `cocos2d`/`Unity3D`/`protobuffer`/`boost`/`docker`/`C#`/`lua`/`java`/`UML`/`Mysql`/`sqlite3`
 
-==== {counter:bilibii}. https://www.bilibili.com/video/BV1ps411s7[魔法少女小圆](动漫 IP 授权改编手游)
+==== #{counter:bilibii}. https://www.bilibili.com/video/BV1ps411s7[魔法少女小圆](动漫 IP 授权改编手游)
  * 即时聊天服务器(Boost.Asio)+客户端开发
  * 若干游戏系统开发, 如: 选服登录, 弹窗系统, 羁绊技能, 技能符文系统, 部分怪物 AI 开发
  * 资源多线程异步延迟加载系统设计实现
@@ -34,29 +34,28 @@
  * 自动化脚本开发, 如: 图片批量预处理, Jenkins 打包 apk/ipa, 资源增量打包并上传对象存储
  * 上线后维护
 
-==== {counter:bilibii}. `原书·原书使`(中日合作研发)/`战棋·野望`
+==== #{counter:bilibii}. `原书·原书使`(中日合作研发)/`战棋·野望`
  * 瓦片地图关卡编辑器设计开发
  * 战斗镜头控制系统设计开发
  * Lua 脚本系统选型, 架构设计及实现
  * 剧情播放器及剧情导入工具开发
  * 资源打包下载及加载系统
 
-==== {counter:bilibii}. `歌牌:唐诗百人一首` (组内自发项目)
+==== #{counter:bilibii}. `歌牌:唐诗百人一首` (组内自发项目)
  * 单人一周实现局域网游戏大厅, 匹配联机对战核心功能 
  * 局域网联机(基于 UDP 广播, Android, iOS, Windows, macOS 无差别对等连接)
  * 局域网对战(TCP)
  * 游戏大厅, 房间组队, 即时对战
- * 单日实现诗词大会 https://www.bilibili.com/video/BV1AJ411R7w3[圆周率飞花令(video)] 玩法
+ * 单日实现诗词大会 *圆周率飞花令* https://www.bilibili.com/video/BV1AJ411R7w3[(Video)] 玩法
  * 诗歌数据爬取格式化导入 sqlite 数据库
 
 
-==== {counter:bilibii}. 本地化项目
-梦王国与沉睡的100王子 https://game.bilibili.com/100p[image:img/m100.png[m100]Home],
-A3! 满开剧团 http://a3.biligame.com[image:img/a3.png[a3]Home],
-尼尔·重生 https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]Home]
+==== #{counter:bilibii}. 国外游戏代理
+https://game.bilibili.com/100p[image:img/m100.png[m100]梦王国与沉睡的100王子],
+http://a3.biligame.com[image:img/a3.png[a3]A3! 满开剧团],
+https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]尼尔·重生]
 
 - 同步合并日本源代码
-- 运营活动开发
 - 待翻译资源提取合并回填工具开发
 - 代码热更方案设计实现(XLua/InjectFix)
 - 客户端 Android/iOS 多渠道 SDK 及服务器(java)接入及更新
@@ -64,13 +63,13 @@ A3! 满开剧团 http://a3.biligame.com[image:img/a3.png[a3]Home],
 - 自动化 CI 系统 shell/Jenkins 设计实现
 - 服务器本地化移植 `PHP/Go/Java/Kotlin`, 如: `AWS/GoogleDriver`， 添加阿里云腾讯云金山云支持 `AliyunOSS/TencentCOS` (Golang/Kotlin)
 - 自建兼容 aws/s3 的对象存储服务
-- 客户端资源上传 aws/oss/cos 工具开发 (Go)
-- 代码注释 Office 文档 翻译工具, 基于百度/谷歌翻译API(C#/Lua/Sqlite3)
+- 客户端资源上传 aws/oss/cos 工具开发(Go)
+- 代码注释 Office 文档翻译工具, 基于百度/谷歌翻译API(C#/Lua/Sqlite3)
 
 
-=== {counter:directions}. 上海萌果信息科技有限公司, 2014/02 -- 2015/10
+=== {counter:directions}. 上海萌果信息科技有限公司, 2014/02--2015/10
 - 技术标签: `cocos2d`/`C++`/`socket`/`Qt5`
-- 项目简介: 幻想英雄 (http://hxyx.gamed9.com[Home] / https://www.bilibili.com/video/BV1jb411e7NU[Video])
+- 项目简介: http://hxyx.gamed9.com[幻想英雄] (https://www.bilibili.com/video/BV1jb411e7NU[Video])
  * 若干游戏玩法系统开发
  * 即时聊天系统开发(语音+文本+表情包)
  * 场景编辑器开发维护(Qt5)
@@ -82,7 +81,7 @@ A3! 满开剧团 http://a3.biligame.com[image:img/a3.png[a3]Home],
  本人先后分享了多线程异步加载和延迟加载, `WindowsPhone` 移植和上架全流程等经验.
 
 
-=== {counter:directions}. 上海鑫烨网络科技有限公司, 2013/03 -- 2014/02
+=== {counter:directions}. 上海鑫烨网络科技有限公司, 2013/03--2014/02
 - 项目简介: `武侠传`/`女神降临`(cocos2d) 客户端开发维护 C++, 服务器 PHP
  * 六宫格战斗系统开发
  * iOS 版本移植
@@ -92,7 +91,7 @@ A3! 满开剧团 http://a3.biligame.com[image:img/a3.png[a3]Home],
 
 
 === {counter:directions}. 喀什第二中学 
-- 时间: 2012/07 -- 2013/02
+- 时间: 2012/07--2013/02
 - 主要内容: 
  * 高二年级 `算法与程序设计` 选修课老师, 
  * 学生信息数据库管理(foxbase), 排课工具开发(Excel).

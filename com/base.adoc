@@ -1,13 +1,12 @@
 
 == 基本信息
-- 冷海军, 男, 1989, 
+- 冷海军, 男, 1989
 - 18158341378, cool_navy@qq.com
 - 华东师范大学, 教育技术学专业, 本科, 理学学士
-- 上海炘璞电子科技有限公司
-- 9年 C++/C#/Lua 手机游戏开发
-- GitHub: https://github.com/cn00[cn00] 码云: https://gitee.com/cnoo[cn00]
-- 成功项目经验: 
-    https://baike.baidu.com/item/武侠传/6561646[武侠转] / 
-    https://baike.baidu.com/item/幻想英雄[幻想英雄] / 
-    https://baike.baidu.com/item/魔法少女小圆/20175601[魔法少女小圆] / 
+- 9年手机游戏开发, `Android`/`iOS`/`Linux`/`cocos2d`/`Unity3D`
+- 成功项目: 
+    https://baike.baidu.com/item/武侠传/6561646[武侠转] /
+    https://baike.baidu.com/item/幻想英雄[幻想英雄] /
+    https://baike.baidu.com/item/魔法少女小圆/20175601[魔法少女小圆] /
     https://baike.baidu.com/item/A3%21/23281415[A3!满开剧团]
+- https://github.com/cn00[GitHub] / https://gitee.com/cnoo[码云]
