@@ -1,29 +1,28 @@
 
 == 工作经历
 
-=== {counter:directions}. 上海炘璞电子有限公司, 2021/12--2022/4
+=== {counter:directions}. 上海炘璞电子有限公司, 2021/12--2022/4, 
+- 职位: 高级软件开发工程师(WMS 全栈开发)
 - 技术标签: `Spring Boot`/`java`/`go`/`vue`/`docker`/`PostgreSQL`/`TSDB`(InfluxDB)/`UHF+RFID`/`树莓派`
-- 项目列表：
-  * 巴斯夫上海危废仓库管理系统
-  * 天津某园区资产自动盘点系统
-  * 天津某液化气瓶运输定位防盗监控
-  * 北京东方博泰档案管理系统电子门禁系统 (斯科门禁)
+- 项目: 巴斯夫上海危废仓库 WMS/天津某园区资产自动盘点系统/天津某液化气瓶运输定位防盗监控/北京东方博泰档案管理系统电子门禁系统(斯科门禁)
 - 主要工作内容：
-  * 化工园 WMS 管理系统前后端及手持机应用开发
+  * 化工 WMS 前后端及手持机(Android)应用开发
   * 政府监管平台对接
   * 旧有后台框架重构
   * 优化项目结构及工作流程
   * 指导初级程序员完成开发任务
 
 
-=== {counter:directions}. 上海奥刃网络科技有限公司, 2021/9--2021/12
+=== {counter:directions}. 上海奥刃网络科技有限公司(姚记科技), 2021/9--2021/12
+- 职位: 资深客户端开发
 - 技术标签: `Unity3D`/`TypeScript`/`WFC`/`多线程`
 - 项目简介：`奥刃小镇(Unity)` 养成类游戏, 玩法类似 https://www.cookierun-kingdom.com/zh-Hant[姜饼人王国], 使用 https://github.com/mxgmn/WaveFunctionCollapse[WFC 波函数塌缩] 实现了程序化建筑生成, 类似 https://www.bilibili.com/video/BV1Xy4y127CB[Townscaper]
 - 工作内容：
- * 基于 `TypeScript` 的业务脚本代码自动生成工具设计开发
- * 养成和程序化生成建筑系统设计开发
+ * `TypeScript` 脚本编辑器设计开发
+ * 养成系统和程序化建筑生成系统设计开发
 
 === {counter:directions}. 上海灼焰/幻电信息科技有限公司(bilibili), 2015/10--2021/9
+- 职位: 高级软件开发工程师
 - 技术标签: `cocos2d`/`Unity3D`/`protobuffer`/`boost`/`docker`/`C#`/`lua`/`java`/`UML`/`Mysql`/`sqlite3`
 
 ==== #{counter:bilibii}. https://www.bilibili.com/video/BV1ps411s7[魔法少女小圆(Video)](动漫 IP 授权改编手游)
@@ -48,24 +47,25 @@
  * 诗歌数据爬取格式化导入 sqlite 数据库
 
 
-==== #{counter:bilibii}. 国外项目代理
+==== #{counter:bilibii}. 日本游戏代理
 https://game.bilibili.com/100p[image:img/m100.png[m100]梦王国与沉睡的100王子(Home)],
 http://a3.biligame.com[image:img/a3.png[a3]A3! 满开剧团(Home)],
 https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]尼尔·重生(Home)]
 
 - 同步合并日本源代码
-- 待翻译资源提取合并回填工具开发
+- 翻译资源提取合并回填工具开发
 - 代码热更方案设计实现(XLua/InjectFix)
 - 客户端 Android/iOS 多渠道 SDK 及服务器(java)接入及更新
 - 服务器 Docker 化部署, 及容器编排
 - 自动化 CI 系统 shell/Jenkins 设计实现
-- 服务器本地化移植 `PHP/Go/Java/Kotlin`, 如: `AWS/GoogleDriver`， 添加阿里云腾讯云金山云支持 `AliyunOSS/TencentCOS` (Golang/Kotlin)
+- 服务器本地化移植 `PHP/Go/Java/Kotlin`, 如: `AWS/GoogleDriver`, 添加阿里云腾讯云金山云支持 `AliyunOSS/TencentCOS` (Golang/Kotlin)
 - 自建兼容 aws/s3 的对象存储服务
 - 客户端资源上传 aws/oss/cos 工具开发(Go)
 - 代码注释 Office 文档翻译工具, 基于百度/谷歌翻译API(C#/Lua/Sqlite3)
 
 
 === {counter:directions}. 上海萌果信息科技有限公司, 2014/02--2015/10
+- 职位: 高级软件开发工程师
 - 技术标签: `cocos2d`/`C++`/`socket`/`Qt5`
 - 项目简介: http://hxyx.gamed9.com[幻想英雄(Home)] (https://www.bilibili.com/video/BV1jb411e7NU[Video])
  * 若干游戏玩法系统开发
@@ -80,6 +80,8 @@ https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]尼尔·重�
 
 
 === {counter:directions}. 上海鑫烨网络科技有限公司, 2013/03--2014/02
+- 职位: 客户端开发工程师
+- 技术标签: `cocos2d`/`C++`/`socket`/`sqlite`
 - 项目简介: `武侠传`/`女神降临`(cocos2d) 客户端开发维护 C++, 服务器 PHP
  * 六宫格战斗系统开发
  * iOS 版本移植
@@ -88,9 +90,9 @@ https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]尼尔·重�
  * 文本即时聊天系统开发
 
 
-=== {counter:directions}. 喀什第二中学 
-- 时间: 2012/07--2013/02
+=== {counter:directions}. 喀什第二中学, 2012/07--2013/02
+- 职位: 信息技术课教师
 - 主要内容: 
- * 高二年级 `算法与程序设计` 选修课老师, 
+ * 高二年级 `算法与程序设计(VB)` 选修课老师, 
  * 学生信息数据库管理(foxbase), 排课工具开发(Excel).
 

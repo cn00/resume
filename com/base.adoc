@@ -1,13 +1,16 @@
 
 == 基本信息
 - 冷海军, 男, 1989
-- 18158341378, cool_navy@qq.com
 - 华东师范大学, 教育技术学专业, 本科, 理学学士
-- 9年移动游戏开发, `Android`/`iOS`/`Linux`/`cocos2d`/`Unity3D`
+- 18158341378, cool_navy@qq.com,
+  https://github.com/cn00[GitHub] / https://gitee.com/cnoo[码云]
+- 9年移动游戏开发, `Android`/`iOS`/`Linux`/`C++`/`C#`/`Lua`/`java`/`go`/`cocos2d`/`Unity3D`
+// http://www.kulemi.com/15223[魔法少女小圆(酷乐米)]
+// http://www.kulemi.com/2846[武侠转]
 - 成功项目: 
-    https://baike.baidu.com/item/武侠传/6561646[武侠转] /
-    https://baike.baidu.com/item/幻想英雄[幻想英雄] /
-    https://baike.baidu.com/item/魔法少女小圆/20175601[魔法少女小圆] /
-    https://baike.baidu.com/item/A3%21/23281415[A3!满开剧团]
-- https://github.com/cn00[GitHub] / https://gitee.com/cnoo[码云]
+    https://baike.baidu.com/item/武侠传/6561646[image:img/wxz.jpg[hxyx]武侠转] /
+    https://baike.baidu.com/item/幻想英雄[image:img/hxyx.jpg[hxyx]幻想英雄] /
+    https://baike.baidu.com/item/魔法少女小圆/20175601[image:img/mfsn.jpg[icon]魔法少女小圆] /
+    https://baike.baidu.com/item/A3%21/23281415[image:img/a3.png[a3]A3!满开剧团] /
+    https://game.bilibili.com/100p[image:img/m100.png[m100]梦王国与沉睡的100王子]
 - 自我评价: 好奇心比较强, 喜欢研究折腾, 能够比较快地熟悉未知领域, 最喜欢的编程语言是 Lua
