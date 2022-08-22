@@ -13,7 +13,7 @@
 
 == 职业技能
 - 编程语言 `C++/C#/Lua/go/Java/kotlin/Shell/SQL`
-- 编程环境 `iOS`/`Android`/`Linux`/`Docker`, 有丰富的跨平台接口设计经验
+- 编程环境 `iOS`/`Android`/`Linux`/`Docker`, 有丰富的跨平台接口设计经验, 熟悉 `Ubuntu/Debian/Alpine/Termux`
 - 引擎框架 熟练使用 `unity3d/cocos2d` 引擎, 对 `Ureal`/`ORGE` 等引擎也有一定研究和了解, 
   熟悉 Unity 机器学习框架 `ML-Agents`(基于 TensorFlow) 用于 NPC 对象的 AI 控制
 - 熟练阅读英文技术网站博客, 如: stack overflow

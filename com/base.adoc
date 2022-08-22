@@ -7,8 +7,8 @@
 - 9年移动游戏开发, `Android`/`iOS`/`Linux`/`C++`/`C#`/`Lua`/`java`/`go`/`cocos2d`/`Unity3D`
 // http://www.kulemi.com/15223[魔法少女小圆(酷乐米)]
 // http://www.kulemi.com/2846[武侠转]
+// https://baike.baidu.com/item/武侠传/6561646[image:img/wxz.jpg[icon]武侠转] /
 - 成功项目: 
-    https://baike.baidu.com/item/武侠传/6561646[image:img/wxz.jpg[icon]武侠转] /
     https://baike.baidu.com/item/幻想英雄[image:img/hxyx.jpg[icon]幻想英雄] /
     https://baike.baidu.com/item/魔法少女小圆/20175601[image:img/mfsn.jpg[icon]魔法少女小圆] /
     https://baike.baidu.com/item/A3%21/23281415[image:img/a3.png[icon]A3!满开剧团] /

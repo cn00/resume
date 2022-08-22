@@ -3,11 +3,12 @@
 
 === {counter:directions}. 上海炘璞电子有限公司, 2021/12--2022/4, 
 - 职位: 高级软件开发工程师(WMS 全栈开发)
-- 技术标签: `Spring Boot`/`java`/`go`/`vue`/`docker`/`PostgreSQL`/`TSDB`(InfluxDB)/`UHF+RFID`/`树莓派`
-- 项目: 巴斯夫上海危废仓库 WMS/天津某园区资产自动盘点系统/天津某液化气瓶运输定位防盗监控/北京东方博泰档案管理系统电子门禁系统(斯科门禁)
+- 技术标签: `Spring Boot`/`java`/`go`/`vue`/`docker`/`k3s(Rancher)`/`PostgreSQL`/`TSDB`(InfluxDB)/`UHF+RFID`/`树莓派`
+- 项目: 巴斯夫上海危废仓库 WMS/天津某园区资产自动盘点系统/天津某液化气瓶运输定位防盗监控/北京东方博泰档案管理系统电子门禁系统(斯科门禁)/炘璞物联网平台
 - 主要工作内容：
   * 化工 WMS 前后端及手持机(Android)应用开发
   * 政府监管平台对接
+  * Rancher(k3s) 部署配置及管理
   * 旧有后台框架重构
   * 优化项目结构及工作流程
   * 指导初级程序员完成开发任务
@@ -57,7 +58,7 @@ https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]尼尔·重�
 - 代码热更方案设计实现(XLua/InjectFix)
 - 客户端 Android/iOS 多渠道 SDK 及服务器(java)接入及更新
 - 服务器 Docker 化部署, 及容器编排
-- 自动化 CI 系统 shell/Jenkins 设计实现
+- 自动化 CI 系统 shell/Jenkins 设计实现, 并通过 webhook 通知到企业微信等 IM
 - 服务器本地化移植 `PHP/Go/Java/Kotlin`, 如: `AWS/GoogleDriver`, 添加阿里云腾讯云金山云支持 `AliyunOSS/TencentCOS` (Golang/Kotlin)
 - 自建兼容 aws/s3 的对象存储服务
 - 客户端资源上传 aws/oss/cos 工具开发(Go)
