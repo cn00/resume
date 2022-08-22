@@ -10,3 +10,4 @@
     https://baike.baidu.com/item/魔法少女小圆/20175601[魔法少女小圆] /
     https://baike.baidu.com/item/A3%21/23281415[A3!满开剧团]
 - https://github.com/cn00[GitHub] / https://gitee.com/cnoo[码云]
+- 自我评价: 好奇心比较强, 喜欢研究折腾, 最喜欢的编程语言是 Lua

@@ -11,12 +11,12 @@
 // 精通MonoC#开发；熟悉并行/异步/网络软件设计和开发；熟练掌握Lua语言，Python语言；有良好的计算机理论知识和规范的编码风格；
 // 4.熟悉 RabbitMQ/Kafka/Redis/Memcached/MySQL/MongODB/ElasticSearch#;
 
-== 专业能力
+== 职业技能
 - 编程语言 `C++/C#/Lua/go/Java/kotlin/Shell/SQL`
 - 编程环境 `iOS`/`Android`/`Linux`/`Docker`, 有丰富的跨平台接口设计经验
 - 引擎框架 熟练使用 `unity3d/cocos2d` 引擎, 对 `Ureal`/`ORGE` 等引擎也有一定研究和了解, 
   熟悉 Unity 机器学习框架 `ML-Agents`(基于 TensorFlow) 用于 NPC 对象的 AI 控制
-- 擅长开发和各种工具批处理脚本, 熟练使用 `shell/sed/awk` 脚本
-- 能够快速学习阅读分析代码能力, 能够快速理解大型工程等架构
-- 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发
+- 擅长开发工具脚本, 熟练使用 `shell`/`sed`/`awk` 脚本, 熟练各种数据格式的转换
+- 能够快速学习阅读分析代码能力, 能够快速理解大型工程架构, 快速参与的实际开发工作
+- 具有丰富的开源项目组件使用经验, 根据项目需求进行二次开发
 - 积极参与开源项目, 如腾讯开源热更新方案 https://github.com/Tencent/xlua.git[XLua] / https://github.com/Tencent/InjectFix.git[InjectFix]
