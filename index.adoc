@@ -8,7 +8,9 @@ include::com/base.adoc[基本信息]
 
 include::com/ability.adoc[职业技能]
 
-include::com/experience.adoc[工作经历]
+include::com/workflow.adoc[工作经历]
+
+include::com/experience.adoc[项目经历]
 
 include::com/education.adoc[教育经历]
 
