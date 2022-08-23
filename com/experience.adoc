@@ -1,99 +1,142 @@
 
 == 工作经历
 
-=== {counter:directions}. 上海炘璞电子有限公司, 2021/12--2022/4, 
-- 职位: 高级软件开发工程师(化工WMS系统全栈开发)
-- 技术标签: `Spring Boot`/`java`/`go`/`vue`/`docker`/`k3s(Rancher)`/`PostgreSQL`/`TSDB`(InfluxDB)/`UHF+RFID`/`树莓派`
-- 项目: 巴斯夫上海危废仓库 WMS/天津某园区资产自动盘点系统/天津某液化气瓶运输定位防盗监控/北京东方博泰档案管理系统电子门禁系统(斯科门禁)/炘璞物联网平台
+[%header, cols="2,1,2"]
+|===
+^|公司 ^| 时间 ^| 职位
+|{counter:directions}. 上海炘璞电子有限公司 | 2021/12--2022/4 | 高级软件开发工程师(化工WMS全栈)
+
+|{counter:directions}. 上海奥刃网络科技有限公司(姚记科技) | 2021/9--2021/12 | 资深客户端开发(Unity)
+
+|{counter:directions}. 上海灼焰/幻电信息科技有限公司(bilibili)| 2015/10--2021/9 | 高级软件开发工程师(Unity/cocos)
+
+|{counter:directions}. 上海萌果信息科技有限公司| 2014/02--2015/10 | 高级软件开发工程师(cocos)
+
+|{counter:directions}. 上海鑫烨网络科技有限公司 | 2013/03--2014/02 | 客户端开发工程师(cocos)
+
+|{counter:directions}. 喀什第二中学 | 2012/07--2013/02 | 中学信息技术课教师
+|===
+
+== 项目经历
+
+// [%header, cols="1,1,2,3"]
+// |===
+// ^| 项目 ^| 时间 ^| 技术栈 ^| 职责
+// |上海/南京化工园区 WMS 
+// | 2021/12--2022/4 
+// | `Spring Boot` / `java` / `go` / `vue` / `docker` / `k3s(Rancher)` /
+//   `PostgreSQL` / `TSDB`(InfluxDB) / `UHF+RFID` / `树莓派` 
+// | * 化工 WMS 前后端及手持机(Android)应用开发;
+// * 政府监管平台对接;
+// * `Rancher(k3s)` 部署配置及管理;
+// * 旧有后台框架重构;
+// * 优化项目结构及工作流程;
+// * 指导初级程序员完成开发任务
+
+// | 奥刃小镇 
+// | 2021/9--2021/12 
+// |`Unity`/`TypeScript`/`WFC`/`多线程`
+// |
+
+// |===
+
+=== {counter:project}. 上海/南京化工园区 WMS, 2021/12--2022/4, 
+- 项目列表: 巴斯夫上海危废仓库 WMS/天津某园区资产自动盘点系统/天津某液化气瓶运输定位防盗监控/北京东方博泰档案管理系统电子门禁系统(斯科门禁)/炘璞物联网平台
+- 技术标签: `SpringBoot` / `java` / `go` / `vue` / `docker` / `k3s(Rancher)` / `PostgreSQL` / `TSDB(InfluxDB)` / `UHF+RFID` / `树莓派`
+- 主要职责：
+    化工 WMS 前后端及手持机(Android)应用开发;
+    政府监管平台对接;
+    `Rancher(k3s)` 部署配置及管理;
+    旧有后台框架重构;
+    优化项目结构及工作流程;
+    指导初级程序员完成开发任务;
+
+
+=== {counter:project}. 奥刃小镇(Unity), 2021/9--2021/12
+- 技术标签: `Unity`/`TypeScript`/`WFC`/`多线程`
+- 项目简介: 养成类游戏, 
+    玩法类似 https://www.cookierun-kingdom.com/zh-Hant[姜饼人王国], 
+    实现了程序化建筑生成, 类似 https://www.bilibili.com/video/BV1Xy4y127CB[Townscaper]
 - 主要工作内容：
-  * 化工 WMS 前后端及手持机(Android)应用开发
-  * 政府监管平台对接
-  * Rancher(k3s) 部署配置及管理
-  * 旧有后台框架重构
-  * 优化项目结构及工作流程
-  * 指导初级程序员完成开发任务
+    `TypeScript` 脚本自动生成编辑器设计开发;
+    养成系统设计开发;
+    程序化建筑生成系统(基于 https://github.com/mxgmn/WaveFunctionCollapse[WFC 波函数塌缩]算法).
+
+=== {counter:project}. 魔法少女小圆(cocos), 2015/10--2017/6
+- 技术标签: `cocos2d`/`Lua`/`spine`
+- https://www.bilibili.com/video/BV1ps411s7[魔法少女小圆(Video)](动漫 IP 授权改编手游)
+- 主要职责：* 若干游戏系统开发, 如: 选服登录, 弹窗系统, 羁绊技能, 技能符文系统, 部分怪物 AI 开发, 即时聊天服务器(Boost.Asio)+客户端开发
+    资源多线程异步延迟加载系统设计实现;
+    内存优化, spine 骨骼合并, 加载优化;
+    自动化脚本开发, 如: 图片批量预处理, Jenkins 打包 apk/ipa, 资源增量打包并上传对象存储;
+
+=== {counter:project}. `原书·原书使`(中日合作研发)/`战棋·野望`(Unity), 2017/3--2018/3
+- 技术标签: `Unity`/`C#`/`Lua`
+- 主要职责:
+    瓦片地图关卡编辑器设计开发;
+    战斗镜头控制系统设计开发;
+    Lua 脚本系统选型, 架构设计及实现;
+    剧情播放器及剧情导入工具开发;
+    资源打包下载及加载系统;
+
+=== {counter:project}. `歌牌:唐诗百人一首` (自发项目)
+- 技术标签: `Unity`/`C#`/`Lua`
+- 主要职责:
+    单人一周实现局域网游戏大厅, 匹配联机对战核心功能;
+    局域网联机(基于 UDP 广播, Android, iOS, Windows, macOS 无差别对等连接);
+    局域网对战(TCP);
+    游戏大厅, 房间组队, 即时对战;
+    单日实现诗词大会 https://www.bilibili.com/video/BV1AJ411R7w3[*圆周率飞花令*(Video)] 玩法;
+    诗歌数据爬取格式化导入 sqlite 数据库;
 
 
-=== {counter:directions}. 上海奥刃网络科技有限公司(姚记科技), 2021/9--2021/12
-- 职位: 资深客户端开发
-- 技术标签: `Unity3D`/`TypeScript`/`WFC`/`多线程`
-- 项目简介：`奥刃小镇(Unity)` 养成类游戏, 玩法类似 https://www.cookierun-kingdom.com/zh-Hant[姜饼人王国], 使用 https://github.com/mxgmn/WaveFunctionCollapse[WFC 波函数塌缩] 实现了程序化建筑生成, 类似 https://www.bilibili.com/video/BV1Xy4y127CB[Townscaper]
-- 工作内容：
- * `TypeScript` 脚本编辑器设计开发
- * 养成系统和程序化建筑生成系统设计开发
-
-=== {counter:directions}. 上海灼焰/幻电信息科技有限公司(bilibili), 2015/10--2021/9
-- 职位: 高级软件开发工程师
-- 技术标签: `cocos2d`/`Unity3D`/`protobuffer`/`boost`/`docker`/`C#`/`lua`/`java`/`UML`/`Mysql`/`sqlite3`
-
-==== #{counter:bilibii}. https://www.bilibili.com/video/BV1ps411s7[魔法少女小圆(Video)](动漫 IP 授权改编手游)
- * 若干游戏系统开发, 如: 选服登录, 弹窗系统, 羁绊技能, 技能符文系统, 部分怪物 AI 开发,即时聊天服务器(Boost.Asio)+客户端开发
- * 资源多线程异步延迟加载系统设计实现
- * 内存优化, spine 骨骼合并, 加载优化
- * 自动化脚本开发, 如: 图片批量预处理, Jenkins 打包 apk/ipa, 资源增量打包并上传对象存储
-
-==== #{counter:bilibii}. `原书·原书使`(中日合作研发)/`战棋·野望`
- * 瓦片地图关卡编辑器设计开发
- * 战斗镜头控制系统设计开发
- * Lua 脚本系统选型, 架构设计及实现
- * 剧情播放器及剧情导入工具开发
- * 资源打包下载及加载系统
-
-==== #{counter:bilibii}. `歌牌:唐诗百人一首` (自发项目)
- * 单人一周实现局域网游戏大厅, 匹配联机对战核心功能 
- * 局域网联机(基于 UDP 广播, Android, iOS, Windows, macOS 无差别对等连接)
- * 局域网对战(TCP)
- * 游戏大厅, 房间组队, 即时对战
- * 单日实现诗词大会 https://www.bilibili.com/video/BV1AJ411R7w3[*圆周率飞花令*(Video)] 玩法
- * 诗歌数据爬取格式化导入 sqlite 数据库
-
-
-==== #{counter:bilibii}. 日本游戏代理
+=== {counter:project}. 游戏代理, 2018--2021
+- 项目: 
 https://game.bilibili.com/100p[image:img/m100.png[m100]梦王国与沉睡的100王子(Home)],
 http://a3.biligame.com[image:img/a3.png[a3]A3! 满开剧团(Home)],
 https://www.biligame.com/detail/?id=105030[image:img/nier.jpg[nier]尼尔·重生(Home)]
+- 技术标签: `Unity`/`cocos`/`UniRx`/`C#`/`Lua`
+- 主要职责: 
+    同步合并日本源代码;
+    翻译资源提取合并回填工具开发;
+    代码热更方案设计实现(XLua/InjectFix);
+    客户端 Android/iOS 多渠道 SDK 及服务器(java)接入及更新;
+    服务器 Docker 化部署, 及容器编排;
+    自动化 CI 系统 shell/Jenkins 设计实现, 并通过 webhook 通知到企业微信等 IM;
+    服务器本地化移植 `PHP/Go/Java/Kotlin`, 如: `AWS/GoogleDriver`, 添加阿里云腾讯云金山云支持 `AliyunOSS/TencentCOS` (Golang/Kotlin);
+    自建兼容 aws/s3 的对象存储服务;
+    客户端资源上传 aws/oss/cos 工具开发(Go);
+    代码注释 Office 文档翻译工具, 基于百度/谷歌翻译API(C#/Lua/Sqlite3);   
 
-- 同步合并日本源代码
-- 翻译资源提取合并回填工具开发
-- 代码热更方案设计实现(XLua/InjectFix)
-- 客户端 Android/iOS 多渠道 SDK 及服务器(java)接入及更新
-- 服务器 Docker 化部署, 及容器编排
-- 自动化 CI 系统 shell/Jenkins 设计实现, 并通过 webhook 通知到企业微信等 IM
-- 服务器本地化移植 `PHP/Go/Java/Kotlin`, 如: `AWS/GoogleDriver`, 添加阿里云腾讯云金山云支持 `AliyunOSS/TencentCOS` (Golang/Kotlin)
-- 自建兼容 aws/s3 的对象存储服务
-- 客户端资源上传 aws/oss/cos 工具开发(Go)
-- 代码注释 Office 文档翻译工具, 基于百度/谷歌翻译API(C#/Lua/Sqlite3)
-
-
-=== {counter:directions}. 上海萌果信息科技有限公司, 2014/02--2015/10
+=== {counter:project}. 幻想英雄, 2014/02--2015/10
 - 职位: 高级软件开发工程师
 - 技术标签: `cocos2d`/`C++`/`socket`/`Qt5`
-- 项目简介: http://hxyx.gamed9.com[幻想英雄(Home)] (https://www.bilibili.com/video/BV1jb411e7NU[Video])
- * 若干游戏玩法系统开发
- * 即时聊天系统开发(语音+文本+表情包)
- * 场景编辑器开发维护(Qt5)
- * 多国多语言版本资源适配开发维护
- * 参照 https://github.com/Microsoft/cocos2d-x[Microsoft/cocos2d-x] 移植 `WP8` 版本,
-  并全权负责内购上架发布等工作, 成为 WP8 平台仅有的几款游戏之一
- * 服务器 Android 版本移植(个人研究, 几乎可以实现任意网络手游的单机化)
- * 公司内部经验分享, 如: 不同机型适配方案, `jsb` 项目开发流程, `cocos2d` 新版引擎特性等. 
- 本人先后分享了多线程异步加载和延迟加载, `WindowsPhone` 移植和上架全流程等经验.
+- 项目简介: http://hxyx.gamed9.com[主页] https://www.bilibili.com/video/BV1jb411e7NU[Video];
+ * 若干游戏玩法系统设计开发;
+ * 即时聊天系统开发(语音+文本+表情包);
+ * 场景编辑器开发维护(Qt5);
+ * 多国多语言版本资源适配开发维护;
+ * 参照 https://github.com/Microsoft/cocos2d-x[Microsoft/cocos2d-x] 移植 `WP8` 版本,;
+  并全权负责上架内购发布等工作, 成为 WP8 平台仅有的几款游戏之一;
+ * 服务器 Android 版本移植(个人研究, 几乎可以实现任意网络手游的单机化);
+ * 公司内部经验分享, 如: 不同机型适配方案, `jsb` 项目开发流程, `cocos2d` 新版引擎特性等. ;
+ 本人先后分享了多线程异步加载和延迟加载, `WindowsPhone` 移植和上架全流程等经验.;
 
 
-=== {counter:directions}. 上海鑫烨网络科技有限公司, 2013/03--2014/02
+=== {counter:project}. `武侠传`/`女神降临`(cocos2d), 2013/03--2014/02
 - 职位: 客户端开发工程师
 - 技术标签: `cocos2d`/`C++`/`socket`/`sqlite`
-- 项目简介: `武侠传`/`女神降临`(cocos2d) 客户端开发维护 C++, 服务器 PHP
- * 六宫格战斗系统开发
- * iOS 版本移植
- * 内存优化(基于 cache + sqlite3)
- * 多人伪即时在线系统开发
- * 文本即时聊天系统开发
+- 项目简介:  客户端开发维护 C++, 服务器 PHP
+    六宫格战斗系统开发;
+    iOS 版本移植;
+    内存优化(基于 cache + sqlite3);
+    多人伪即时在线系统开发;
+    文本即时聊天系统开发;
 
 
-=== {counter:directions}. 喀什第二中学, 2012/07--2013/02
-- 职位: 信息技术课教师
-- 主要内容: 
- * 高二年级 `算法与程序设计(VB)` 选修课老师, 
- * 学生信息数据库管理(foxbase), 排课工具开发(Excel).
+// === {counter:project}. 喀什第二中学, 2012/07--2013/02
+// - 职位: 信息技术课教师
+// - 主要内容: 
+//  * 高二年级 `算法与程序设计(VB)` 选修课老师, 
+//  * 学生信息数据库管理(foxbase), 排课工具开发(Excel).
 
