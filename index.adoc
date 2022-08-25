@@ -2,7 +2,7 @@
 :toc-title: 目录
 :toclevels: 2
 
-= 冷海军
+= 冷海军简历
 
 include::com/base.adoc[基本信息]
 
