@@ -1,9 +1,0 @@
-
-== 联系方式
-- 手机: 181-5834-1378 
-- 微信: cool_navy
-- Email: cool_navy@qq.com
-
-
-//| ![QQ](../img/qq.qr.300.jpg) | ![wx](../img/wx.qr.300.jpg) |
-
