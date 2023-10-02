@@ -1,42 +1,32 @@
 
 == 项目经历
 
-// [%header, cols="1,1,2,3"]
-// |===
-// ^| 项目 ^| 时间 ^| 技术栈 ^| 职责
-// |上海/南京化工园区 WMS
-// | 2021/12--2022/4
-// | `Spring Boot` / `java` / `go` / `vue` / `docker` / `k3s(Rancher)` /
-//   `PostgreSQL` / `TSDB`(InfluxDB) / `UHF+RFID` / `树莓派`
-// | * 化工 WMS 前后端及手持机(Android)应用开发;
-// * 政府监管平台对接;
-// * `Rancher(k3s)` 部署配置及管理;
-// * 旧有后台框架重构;
-// * 优化项目结构及工作流程;
-// * 指导初级程序员完成开发任务
-
-// | 奥刃小镇
-// | 2021/9--2021/12
-// |`Unity`/`TypeScript`/`WFC`/`多线程`
-// |
-
-// |===
+=== {counter:project}. 施乐辉渠道数据管理平台, 2022/11--
+// - 项目介绍:
+//     UDI 唯一吗追溯系统 / 
+//     数据仓库 ETL 系统重构优化 /
+//     AWS(中国) IaC 基础设施编排
+- 技术标签: `AWS` / `ETL/Glue` / `IaC/terraform`
+- 主要工作:
+  * `UDI/DW/e施汇` 三个项目五个 AWS 环境基础设施架构和编排, 并一次性通过了信息安全等级保护专家组现场评审(二级)
+  * 数据仓库 ETL 系统重构优化, 将原来全量耗时 5 天, 增量1小时+的任务优化至全量2.5小时, 增量2到3分钟; 将原有上百个任务归纳合并为如今的7个, 极大地减少了任务运行时间
 
 === {counter:project}. 上海/南京化工园 WMS, 2021/12--2022/4
-- 项目列表:
-    巴斯夫上海危废仓库 WMS/
-    天津某园区资产自动盘点系统/
-    天津某液化气瓶运输定位防盗监控/
-    北京东方博泰档案管理系统电子门禁系统(斯科门禁)/
-    炘璞物联网平台
-- 技术标签: `SpringBoot/RxJava` / `MQTT/RabbitMQ` / `java/go/vue` / `docker/k3s(Rancher)` / `PostgreSQL/TSDB(InfluxDB)` / `UHF+RFID/树莓派`
+// - 项目介绍:
+//     巴斯夫上海危废仓库 WMS/
+//     天津某园区资产自动盘点系统/
+//     天津某液化气瓶运输定位防盗监控/
+//     北京东方博泰档案管理系统电子门禁系统(斯科门禁)/
+//     炘璞物联网平台
+- 技术标签: `SpringBoot/RxJava` / `MQTT/MQ` / `java/go/vue` / `docker/k3s(Rancher)` / `PostgreSQL/TSDB(InfluxDB)` / `UHF+RFID`/`嵌入式Linux(树莓派)`
 - 主要职责:
-  * 化工 WMS 前后端及手持机(Android)应用开发;
+  * 巴斯夫上海危废仓库 WMS 前后端及手持机(Android)应用开发;
   * 政府监管平台对接;
   * `Rancher(k3s)` 部署配置及管理;
-  * 旧有后台框架重构;
+  * 旧有后台框架重构, 将大量公共组件接口提取拆分放入单独共同依赖模块, 提高了接口一致性保障, 减少了重复的维护工作;
   * 优化项目结构及工作流程;
   * 指导初级程序员完成开发任务;
+  * 疫情居家隔离期间独自完成博泰电子门禁系统开发和交付, 在没有设备和模拟器的情况下根据设备文档使用软件实现了读卡器TCP协议模拟, 本地调试并交付最终软件程序
 
 
 === {counter:project}. 奥刃小镇(Unity), 2021/9--2021/12
@@ -45,7 +35,7 @@
     玩法类似 https://www.cookierun-kingdom.com/zh-Hant[姜饼人王国],
     实现了程序化建筑生成, 类似 https://www.bilibili.com/video/BV1Xy4y127CB[Townscaper]
 - 主要职责:
-  * `TypeScript` 脚本自动生成编辑器设计开发;
+  * `TypeScript` 控件自动绑定编辑器设计开发;
   * 养成系统设计开发;
   * 程序化建筑生成系统(基于 https://github.com/mxgmn/WaveFunctionCollapse[WFC 波函数塌缩]算法).
 

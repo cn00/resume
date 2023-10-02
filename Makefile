@@ -9,4 +9,5 @@ client:
 server:
 	asciidoctor-pdf index.adoc -o lhj-resume-server.pdf
 
-default: pdf
+html:
+	
