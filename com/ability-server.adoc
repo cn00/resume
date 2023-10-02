@@ -1,23 +1,17 @@
 
-// 华为河图云测-游戏后端职位描述
-// 岗位职责：
-// 1、负责并参与游戏后台架构设计、系统设计、部署设计、核心模块研发；
-// 2、根据项目需求，设计构建多人在线游戏的服务器方案及数据库方案；
-// 3、对服务端的性能、吞吐率、稳定性、安全性等技术竞争力负责。
-// 岗位要求：
-// 1. 精通游戏服务器逻辑框架，系统架构，性能分析，测试，安全性等技术；
-// 2.深刻理解面向对象设计和开发思想，熟悉设计模式并有丰富的实践经验；
-// 3. 精通Unix/Linux环境下的C/C++开发，熟悉STL；
-// 精通MonoC#开发；熟悉并行/异步/网络软件设计和开发；熟练掌握Lua语言，Python语言；有良好的计算机理论知识和规范的编码风格；
-// 4.熟悉 RabbitMQ/Kafka/Redis/Memcached/MySQL/MongODB/ElasticSearch#;
-
 == 专业能力
-- 编程语言 `C++/C#/Lua/go/Java/kotlin/Shell/SQL`
-- 引擎框架 `unity3d/cocos2d/SpringBoot`
-- 擅长环境 `macOS`/`Linux`/`Docker`
-- 擅长开发和使用各种工具, 对 `Unix` 系统工具较熟悉, 
-擅长使用 `shell` 管道编写工具脚本完成一些如数据处理, 日志分析, 问题定位等工作
-- 能够快速学习新技术新语言, 能够触类旁通, 有较强等代码阅读分析能力, 能快速定位问题, 实现需求
-- 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发, 如: lua, sqlite3, flatbuffers
-- 热爱开源社区, 积极为开源项目贡献代码, 如腾讯开源热更新方案 (https://github.com/Tencent/xlua.git[XLua]) / (https://github.com/Tencent/InjectFix.git[InjectFix])
+- 擅长语言 `C++/C#/Lua/go/Java/kotlin/Shell/SQL`, 熟练使用 `多进程/多线程/协程` 模型并发编程;
+- 熟练使用 `ReactiveX`(`UniRx`/`RxJava`/`RxJS`) 响应式编程;
+- 熟练使用 `MySQL,sqlite3,PostgreSQL`/`MQ(MQTT,RabbitMQ)`/`NGINX`/`Redis`/`SpringBoot` 等服务端技术;
+- 引擎框架 熟练使用 `unity3d/cocos2d` 引擎, 对 `Ureal`/`ORGE` 等引擎也有一定研究和了解;
+- 熟悉 Unity3D 机器学习框架 `ML-Agents`(基于 TensorFlow) 用于 NPC 对象的 AI 控制模型训练;
+- 熟悉移动平台 `iOS`/`Android` 游戏应用开发, 有丰富的跨平台接口设计经验;
+- 对操作系统有较深入的理解, 熟悉 `Ubuntu/Debian/Alpine/Termux` 等 `Linux/Docker` 环境编程;
+- 熟练阅读英文技术网站博客, 如: stack overflow;
+- 擅长工具脚本开发, 熟练使用 `shell`/`sed`/`awk` 脚本, 熟练各种数据格式的转换;
+- 具有快速学习阅读分析代码能力, 能够快速理解大型工程架构, 迅速参与到实际的开发工作;
+- 具有丰富的开源项目组件使用经验, 根据项目需求进行二次开发;
+- 积极参与开源项目, 如腾讯开源热更新方案
+https://github.com/Tencent/xlua.git[XLua] /
+https://github.com/Tencent/InjectFix.git[InjectFix]
 

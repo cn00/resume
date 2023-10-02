@@ -1,16 +1,4 @@
 
-// 华为河图云测-游戏后端职位描述
-// 岗位职责：
-// 1、负责并参与游戏后台架构设计、系统设计、部署设计、核心模块研发；
-// 2、根据项目需求，设计构建多人在线游戏的服务器方案及数据库方案；
-// 3、对服务端的性能、吞吐率、稳定性、安全性等技术竞争力负责。
-// 岗位要求：
-// 1. 精通游戏服务器逻辑框架，系统架构，性能分析，测试，安全性等技术；
-// 2.深刻理解面向对象设计和开发思想，熟悉设计模式并有丰富的实践经验；
-// 3. 精通Unix/Linux环境下的C/C++开发，熟悉STL；
-// 精通MonoC#开发；熟悉并行/异步/网络软件设计和开发；熟练掌握Lua语言，Python语言；有良好的计算机理论知识和规范的编码风格；
-// 4.熟悉 RabbitMQ/Kafka/Redis/Memcached/MySQL/MongODB/ElasticSearch;
-
 == 职业技能
 - 擅长语言 `C++/C#/Lua/go/Java/kotlin/Shell/SQL`, 熟练使用 `多进程/多线程/协程` 模型并发编程;
 - 熟练使用 `ReactiveX`(`UniRx`/`RxJava`/`RxAndroid`/`RxJS`) 响应式编程;
@@ -26,3 +14,6 @@
 - 积极参与开源项目, 如腾讯开源热更新方案
     https://github.com/Tencent/xlua.git[XLua] /
     https://github.com/Tencent/InjectFix.git[InjectFix]
+
+//=== Unity3D
+//- 插件: NGUI/LeanTouch/Post Processing/
