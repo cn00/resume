@@ -3,7 +3,7 @@
 - 冷海军, 男, 1989
 - 华东师范大学, 教育技术学专业, 本科, 理学学士
 - 18158341378, cool_navy@qq.com,
-  https://github.com/cn00[GitHub] / https://gitee.com/cnoo[码云]
+  https://github.com/cn00[Github] / https://gitlab.com/cn00[Gitlab] / https://gitee.com/cnoo[码云]
 - 9年移动游戏开发, `Android`/`iOS`/`Linux`/`C++`/`C#`/`Lua`/`java`/`go`/`cocos2d`/`Unity3D`
 // http://www.kulemi.com/15223[魔法少女小圆(酷乐米)]
 // 武侠传 http://www.kulemi.com/2846[酷乐米]
@@ -13,4 +13,4 @@
     https://baike.baidu.com/item/魔法少女小圆/20175601[image:img/mfsn.jpg[icon]魔法少女小圆] /
     https://baike.baidu.com/item/A3%21/23281415[image:img/a3.png[icon]A3!满开剧团] /
     https://game.bilibili.com/100p[image:img/m100.png[icon]梦王国与沉睡的100王子]
-- 自我评价: 好奇心比较强, 喜欢研究折腾, 能够比较快地熟悉未知领域
+- 自我评价: 好奇心比较强, 喜欢研究, 能够快速熟悉未知领域并投入生产

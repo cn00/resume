@@ -6,7 +6,7 @@
 
 include::com/base.adoc[基本信息]
 
-include::com/ability.adoc[职业技能]
+include::com/ability.adoc[专业能力]
 
 include::com/workflow.adoc[工作经历]
 

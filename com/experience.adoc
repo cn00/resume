@@ -51,7 +51,7 @@
 //   * 诗歌数据爬取格式化导入 sqlite 数据库;
 
 
-=== {counter:project}. 日文游戏汉化(Unity/cocos), 2018--2021/9
+=== {counter:project}. 游戏汉化(Unity/cocos), 2018--2021/9
 - 项目:
 http://a3.biligame.com[image:img/a3.png[a3]A3! 满开剧团(Home)],
 https://game.bilibili.com/100p[image:img/m100.png[m100]梦王国与沉睡的100王子(Home)],
